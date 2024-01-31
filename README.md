@@ -1,5 +1,6 @@
 ### Ola! Eu sou José Ulian Cardoso Almeida 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulian18TIC18&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulian18TIC18)
+
 <div> 
   <a href="https://www.linkedin.com/in/josé-ulian-cardoso-almeida-me-98b5ab23b" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
