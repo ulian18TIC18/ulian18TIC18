@@ -25,8 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+   <img width="12" />
+  <img src="https://img.shields.io/static/v1?  message=Django%20REST%20Framework&logo=django&label=&color=092E20&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="django rest framework logo" />
 </div>
 
 ###
