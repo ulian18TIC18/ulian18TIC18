@@ -32,13 +32,14 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/ulicaralm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://lattes.cnpq.br/0143439994013910" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Lattes&logo=google-scholar&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="lattes logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-ulian-cardoso-almeida-me-98b5ab23b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
 
 ###
 
